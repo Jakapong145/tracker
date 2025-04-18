@@ -1,2 +1,2 @@
-Time,Temperature,Humidity
-2025-5-2 13:32:48,28.20,51.00
+Time,Latitude,Longitude,Speed,Voltage
+4904,18.692020,99.071648,12745843.000,0.000
